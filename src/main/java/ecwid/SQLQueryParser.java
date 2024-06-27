@@ -10,7 +10,7 @@ import ecwid.parser.SQLParser;
 
 
 
-public class SQLQueryParser //extends sqlParserBaseListener
+public class SQLQueryParser 
 {
 
 	public static void main(String[] args) {
